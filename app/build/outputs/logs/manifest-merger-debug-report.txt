@@ -1,0 +1,192 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+MERGED from [com.android.support:design:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/0926c791cd27bdc89e00027e31d1e889/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a71721f136488d80d6b3a28d852dfe8b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/saurabh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/fbb9f6e88f3831224b27c5bf8beebf20/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v13:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/a0f322928caba17ffe03803070d9dddd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/01acfc29e141aa07269c19cb03dcd244/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/5b61bf097069f5651c7815c38b51d3b8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/88f65f062c55627fd422ac6c0122436a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/f816286efe7a6f42a73f5c2a8f2adbcd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/6f139eb2229cdacd33cc315d8c3dcd67/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/cff84c9c5b372a33e5473f6ab37720d7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/bcd715c16a046c78fc12c1cd700351bb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/aa07d6d727947664605519ce2fb6107f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/efacf21e5c3cfdfe2f3abecab91cacfd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/8518085c6ec4c29a66155f56022b905d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/66862b7e2e1f0707f9a568e8713eb088/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/4f9300c98a19b520ee79a4e6ab7f1286/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/d8115f32306b2572e18c60eb231c345a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/5345ebee70b7c6b31c802eb92b559e9f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/0c141fa34cbc95d0764428de5e371f00/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/76423396a35cc49418f9d96f3d7ec747/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/2f0cfda4e96f12bb8c071e6365d8b46a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/001a2ef4ca3ae0cb776c0146a004e2a4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/4aa1051d753d8f580fdc1067fdba33fd/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/276be30960ffb9d37398a2834b3ae6eb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/935e463830c21361c53e9761c922d002/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/saurabh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/86b21b669dea3b064d030b91389da5b3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/627c2a371ada9a29077b0b115fa3ce88/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/549e0736bf5d14ab67d9503757594f55/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/3e2d46abdfbff789839f0fcfb2819b50/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/saurabh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/4a24d9a32fe1f9319ea8ec56e9225c25/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/6dbd7fb2a97523f66f68d09eddde5a27/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/saurabh/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d212bb0b9f929853acfa09ffcbeec30c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/saurabh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/393815b4a5200fccea594a9e031294a5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/saurabh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9bfd9c5f333ed33289cfd8c1b3550e0c/AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite:1.12.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.12.0.aar/62cee1d147a0d0caef078e4890876cbb/AndroidManifest.xml:2:1-11:12
+INJECTED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+	package
+		ADDED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:19:5-51
+		INJECTED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+		INJECTED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+		INJECTED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:24:19-67
+application
+ADDED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:26:5-38:19
+MERGED from [com.android.support:design:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/0926c791cd27bdc89e00027e31d1e889/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/0926c791cd27bdc89e00027e31d1e889/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/saurabh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/fbb9f6e88f3831224b27c5bf8beebf20/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/saurabh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/fbb9f6e88f3831224b27c5bf8beebf20/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/001a2ef4ca3ae0cb776c0146a004e2a4/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/001a2ef4ca3ae0cb776c0146a004e2a4/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/4aa1051d753d8f580fdc1067fdba33fd/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/4aa1051d753d8f580fdc1067fdba33fd/AndroidManifest.xml:22:5-23:19
+MERGED from [org.tensorflow:tensorflow-lite:1.12.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.12.0.aar/62cee1d147a0d0caef078e4890876cbb/AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.12.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.12.0.aar/62cee1d147a0d0caef078e4890876cbb/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/001a2ef4ca3ae0cb776c0146a004e2a4/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:28:9-45
+	android:allowBackup
+		ADDED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:26:18-44
+	android:theme
+		ADDED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:29:9-45
+activity#com.example.android.tflitecamerademo.CameraActivity
+ADDED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:31:9-37:20
+	android:label
+		ADDED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:32:19-51
+	android:name
+		ADDED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:31:19-85
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+INJECTED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/0926c791cd27bdc89e00027e31d1e889/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/0926c791cd27bdc89e00027e31d1e889/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a71721f136488d80d6b3a28d852dfe8b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a71721f136488d80d6b3a28d852dfe8b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/saurabh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/fbb9f6e88f3831224b27c5bf8beebf20/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/saurabh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/fbb9f6e88f3831224b27c5bf8beebf20/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/a0f322928caba17ffe03803070d9dddd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/a0f322928caba17ffe03803070d9dddd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/01acfc29e141aa07269c19cb03dcd244/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/01acfc29e141aa07269c19cb03dcd244/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/5b61bf097069f5651c7815c38b51d3b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/5b61bf097069f5651c7815c38b51d3b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/88f65f062c55627fd422ac6c0122436a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/88f65f062c55627fd422ac6c0122436a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/f816286efe7a6f42a73f5c2a8f2adbcd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/f816286efe7a6f42a73f5c2a8f2adbcd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/6f139eb2229cdacd33cc315d8c3dcd67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/6f139eb2229cdacd33cc315d8c3dcd67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/cff84c9c5b372a33e5473f6ab37720d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/cff84c9c5b372a33e5473f6ab37720d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/bcd715c16a046c78fc12c1cd700351bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/bcd715c16a046c78fc12c1cd700351bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/aa07d6d727947664605519ce2fb6107f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/aa07d6d727947664605519ce2fb6107f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/efacf21e5c3cfdfe2f3abecab91cacfd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/efacf21e5c3cfdfe2f3abecab91cacfd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/8518085c6ec4c29a66155f56022b905d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/8518085c6ec4c29a66155f56022b905d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/66862b7e2e1f0707f9a568e8713eb088/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/66862b7e2e1f0707f9a568e8713eb088/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/4f9300c98a19b520ee79a4e6ab7f1286/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/4f9300c98a19b520ee79a4e6ab7f1286/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/d8115f32306b2572e18c60eb231c345a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/d8115f32306b2572e18c60eb231c345a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/5345ebee70b7c6b31c802eb92b559e9f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/5345ebee70b7c6b31c802eb92b559e9f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/0c141fa34cbc95d0764428de5e371f00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/0c141fa34cbc95d0764428de5e371f00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/76423396a35cc49418f9d96f3d7ec747/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/76423396a35cc49418f9d96f3d7ec747/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/2f0cfda4e96f12bb8c071e6365d8b46a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/2f0cfda4e96f12bb8c071e6365d8b46a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/001a2ef4ca3ae0cb776c0146a004e2a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/001a2ef4ca3ae0cb776c0146a004e2a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/4aa1051d753d8f580fdc1067fdba33fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/4aa1051d753d8f580fdc1067fdba33fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/276be30960ffb9d37398a2834b3ae6eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/276be30960ffb9d37398a2834b3ae6eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/935e463830c21361c53e9761c922d002/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/935e463830c21361c53e9761c922d002/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/saurabh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/86b21b669dea3b064d030b91389da5b3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/saurabh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/86b21b669dea3b064d030b91389da5b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/627c2a371ada9a29077b0b115fa3ce88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/627c2a371ada9a29077b0b115fa3ce88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/549e0736bf5d14ab67d9503757594f55/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/549e0736bf5d14ab67d9503757594f55/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/3e2d46abdfbff789839f0fcfb2819b50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/3e2d46abdfbff789839f0fcfb2819b50/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/saurabh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/4a24d9a32fe1f9319ea8ec56e9225c25/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/saurabh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/4a24d9a32fe1f9319ea8ec56e9225c25/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/6dbd7fb2a97523f66f68d09eddde5a27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/6dbd7fb2a97523f66f68d09eddde5a27/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/saurabh/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d212bb0b9f929853acfa09ffcbeec30c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/saurabh/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d212bb0b9f929853acfa09ffcbeec30c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/saurabh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/393815b4a5200fccea594a9e031294a5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/saurabh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/393815b4a5200fccea594a9e031294a5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/saurabh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9bfd9c5f333ed33289cfd8c1b3550e0c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/saurabh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9bfd9c5f333ed33289cfd8c1b3550e0c/AndroidManifest.xml:20:5-44
+MERGED from [org.tensorflow:tensorflow-lite:1.12.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.12.0.aar/62cee1d147a0d0caef078e4890876cbb/AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite:1.12.0] /home/saurabh/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.12.0.aar/62cee1d147a0d0caef078e4890876cbb/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+INJECTED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/saurabh/Desktop/Projects/Github/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
